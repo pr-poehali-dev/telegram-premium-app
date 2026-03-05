@@ -11,7 +11,7 @@ const premiumPlans = [
     badge: "🔥 Хит",
     features: ["Без рекламы", "Эксклюзивные стикеры", "Ускоренная загрузка", "Голосовые сообщения 60 мин"],
     type: "premium",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
   {
     id: "premium-3",
@@ -22,7 +22,7 @@ const premiumPlans = [
     badge: "💎 Выгода 38%",
     features: ["Без рекламы", "Эксклюзивные стикеры", "Ускоренная загрузка", "Голосовые сообщения 60 мин", "Уникальные значки"],
     type: "premium",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
   {
     id: "premium-12",
@@ -33,7 +33,7 @@ const premiumPlans = [
     badge: "🚀 Максимум",
     features: ["Без рекламы", "Эксклюзивные стикеры", "Ускоренная загрузка", "Голосовые сообщения 60 мин", "Уникальные значки", "Приоритетная поддержка"],
     type: "premium",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
 ];
 
@@ -47,7 +47,7 @@ const starsPlans = [
     badge: "⭐ Старт",
     features: ["Оплата ботов", "Подарки друзьям", "Мгновенное зачисление"],
     type: "stars",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
   {
     id: "stars-200",
@@ -58,7 +58,7 @@ const starsPlans = [
     badge: "⭐ Популярный",
     features: ["Оплата ботов", "Подарки друзьям", "Мгновенное зачисление", "Скидка 17%"],
     type: "stars",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
   {
     id: "stars-1000",
@@ -69,7 +69,7 @@ const starsPlans = [
     badge: "🌟 Pro",
     features: ["Оплата ботов", "Подарки друзьям", "Мгновенное зачисление", "Скидка 20%", "Бонус +50 звёзд"],
     type: "stars",
-    tgLink: "https://t.me/your_manager",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
   },
 ];
 

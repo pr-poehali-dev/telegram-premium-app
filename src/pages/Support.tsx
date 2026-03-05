@@ -7,7 +7,7 @@ const managers = [
     role: "Старший менеджер",
     status: "online",
     emoji: "👨‍💼",
-    tgLink: "https://t.me/your_manager1",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
     responseTime: "~2 мин",
   },
   {
@@ -16,7 +16,7 @@ const managers = [
     role: "Менеджер по продажам",
     status: "online",
     emoji: "👩‍💼",
-    tgLink: "https://t.me/your_manager2",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
     responseTime: "~5 мин",
   },
   {
@@ -25,7 +25,7 @@ const managers = [
     role: "Общий чат помощи",
     status: "online",
     emoji: "🤖",
-    tgLink: "https://t.me/your_support_chat",
+    tgLink: "https://t.me/Dmitriy_Alexeevich1",
     responseTime: "Всегда онлайн",
   },
 ];
