@@ -2,14 +2,16 @@ import { useState } from "react";
 import Icon from "@/components/ui/icon";
 import Catalog from "@/pages/Catalog";
 import Support from "@/pages/Support";
+import Reviews from "@/pages/Reviews";
 
-type Tab = "catalog" | "support";
+type Tab = "catalog" | "reviews" | "support";
 
 const App = () => {
   const [activeTab, setActiveTab] = useState<Tab>("catalog");
 
   const tabs = [
     { id: "catalog" as Tab, label: "Каталог", icon: "ShoppingBag" },
+    { id: "reviews" as Tab, label: "Отзывы", icon: "Star" },
     { id: "support" as Tab, label: "Поддержка", icon: "MessageCircle" },
   ];
 
@@ -37,6 +39,7 @@ const App = () => {
       {/* Page content */}
       <main className="relative z-10">
         {activeTab === "catalog" && <Catalog />}
+        {activeTab === "reviews" && <Reviews />}
         {activeTab === "support" && <Support />}
       </main>
 
